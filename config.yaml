@@ -1,0 +1,15 @@
+
+# total number of tests
+n_tests: 10000
+
+# minumum number extracted
+min_extr: 1
+
+# maximum number extracted
+max_extr: 90
+
+# numbers per card
+num_extr: 15
+
+# cards per player
+num_cards: 2
